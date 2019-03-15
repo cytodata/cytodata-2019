@@ -19,6 +19,6 @@ Hear from leading researchers in the field from academia and industry.
 **Tue Oct 29 CytoData Hackathon - Day 1**  
 Get oriented, and starting working on the first stage of the challenge.
 
-**Wed Oct 29 CytoData Hackathon - Day 2**  
+**Wed Oct 30 CytoData Hackathon - Day 2**  
 Refine models using second stage of the challenge, then evaluate on held out set. 
 Winners will be announced based on the held out set.
