@@ -12,8 +12,8 @@ Administrator: Angelika Manz
 
 ### CytoData Society Board
 
-Past president: [Anne Carpenter](https://twitter.com/DrAnneCarpenter)
-President: [Shantanu Singh](https://twitter.com/snhantau)
+Past president: [Anne Carpenter](https://twitter.com/DrAnneCarpenter) [Shantanu Singh](https://twitter.com/snhantau)
+President: [Florian Heigwer](https://twitter.com/FlorianHeigwer)
 Vice President: TBA (We are recruiting. cytodata.info@gmail.com)
 Event officer: [Sam Cooper](https://twitter.com/sam_o_cooper)
 Communications officer: [Alex Vasilevich](https://www.linkedin.com/in/aliakseivasilevich/)
