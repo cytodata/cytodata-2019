@@ -13,4 +13,4 @@ Inspiration about former meetings can be found at the web page of previous meeti
 
 [CytoData 2016](http://2016.cytodata.org), [CytoData 2017](http://2017.cytodata.org), [CytoData 2018](http://2018.cytodata.org)
 
-If your interested please contact info.cytodata@gmail.com or Florian Heigwer (f.heigwer[at]dkfz.de) directly.
+If your interested please contact <cytodata.info@gmail.com> or Florian Heigwer (f.heigwer[at]dkfz.de) directly.
