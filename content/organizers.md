@@ -20,7 +20,6 @@ Communications officer: [Alex Vasilevich](https://www.linkedin.com/in/aliakseiva
 Industry liaison: [Alex Vasilevich](https://www.linkedin.com/in/aliakseivasilevich/)
 Operations officer: TBA
 Education/ outreach officer: [Juan Caicedo](https://twitter.com/jccaicedo)
-Treasurer: [Lassi Paavolainen](https://twitter.com/Lastu21)
 Society liaison: [Oren Kraus](https://twitter.com/orenkraus)
 Resource officer: [Lassi Paavolainen](https://twitter.com/Lastu21)
 
