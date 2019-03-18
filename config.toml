@@ -14,10 +14,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   extensions = ["hardLineBreak"]
 
 ## Top menu
-#[[menu.top]]
- #   name = "Register here!"
-  #  weight = 10
-   # url = "https://indico.dkfz.de/e/CytoData"
+[[menu.top]]
+    name = "Register here!"
+    weight = 10
+    url = "https://indico.dkfz.de/e/CytoData"
 
 # Site parameters
 [params]
