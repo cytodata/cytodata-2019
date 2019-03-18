@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.top]]
     name = "Register here!"
     weight = 10
-    url = "https://indico.dkfz.de/e/CytoData"
+    url = "https://indico.dkfz.de/event/95/registrations/102/"
 
 # Site parameters
 [params]
