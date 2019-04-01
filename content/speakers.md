@@ -17,6 +17,10 @@ weight: 2
 
 [Julius Hossain](https://www.embl.de/research/units/cbb/ellenberg/members/index.php?s_personId=CP-60014993)
 
+[Sina Oppermann](https://www.dkfz.de/en/PaedOnko/2010_Research_Oehme.html)
+
 [Rainer Pepperkok](https://www.embl.de/research/units/cbb/pepperkok/index.html)
 
 [Luca Rappez](https://www.embl.de/research/units/scb/alexandrov/members/index.php?s_personId=CP-60021681)
+
+[Sophie Rabe](https://www.klinikum.uni-heidelberg.de/Systems-Medicine-of-Cancer-Drugs.142190.0.html)
