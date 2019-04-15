@@ -7,7 +7,8 @@ weight: 2
 
 ## Confirmed Speakers
 
-[Oliver Stegle](https://www.embl.de/research/units/genome_biology/stegle/index.html)
+[Oliver Stegle](https://www.embl.de/research/units/genome_biology/stegle/index.html)  
+*German Cancer Research Center (DKFZ) Heidelberg, Germnay and European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, UK*
 
 [Anna Kreshuk](https://www.embl.de/research/units/cbb/kreshuk/index.html)
 
