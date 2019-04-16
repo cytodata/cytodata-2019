@@ -18,7 +18,7 @@ weight: 2
 *Head of Advanced Light Microscopy Core Facility, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany*
 
 [Sophie Rabe](https://www.klinikum.uni-heidelberg.de/Systems-Medicine-of-Cancer-Drugs.142190.0.html)
-*PhD student, Department of Internal Medicine V, Hematology, Oncology and Rheumatology, Heidelberg, Germany*
+*PhD student, Department of Internal Medicine V, Hematology, Oncology and Rheumatology, University Hospital Heidelberg, Germany*
 
 ### Session 2 - Emerging imaging technologies and analyses to empower personalized medicine approaches
 
@@ -31,7 +31,7 @@ weight: 2
 [Sina Oppermann](https://www.dkfz.de/en/PaedOnko/2010_Research_Oehme.html)
 *Research Postdoc, KiTZ co-Clinical Trial Unit, German Cancer Research Center (DKFZ), Heidelberg, Germany*
 
-### Session 3 - From association to function: Identification and validation of drug targets in single cell
+### Session 3 - From association to function: Identification and validation of drug targets in single cells
 
 [Oliver Stegle](https://www.embl.de/research/units/genome_biology/stegle/index.html) 
 *Group Leader, German Cancer Research Center (DKFZ), Heidelberg, Germany and European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute, Hinxton, Cambridge, UK*
