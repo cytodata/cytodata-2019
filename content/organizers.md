@@ -15,7 +15,7 @@ Administrator: Angelika Manz
 Past president: [Anne Carpenter](https://twitter.com/DrAnneCarpenter) [Shantanu Singh](https://twitter.com/snhantau)
 President: [Florian Heigwer](https://twitter.com/FlorianHeigwer)
 Vice President: TBA (We are recruiting. <cytodata.info@gmail.com>)
-Event officer: [Sam Cooper](https://twitter.com/sam_o_cooper)
+Event officer: [Tim Becker](https://twitter.com/cells2numbers)
 Communications officer: [Alex Vasilevich](https://www.linkedin.com/in/aliakseivasilevich/)
 Industry liaison: [Alex Vasilevich](https://www.linkedin.com/in/aliakseivasilevich/)
 Operations officer: TBA
