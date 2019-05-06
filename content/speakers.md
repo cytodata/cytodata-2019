@@ -17,7 +17,7 @@ weight: 2
 [Rainer Pepperkok](https://www.embl.de/research/units/cbb/pepperkok/index.html)
 *Head of Advanced Light Microscopy Core Facility, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany*
 
-[Sophie Rabe](https://www.klinikum.uni-heidelberg.de/Systems-Medicine-of-Cancer-Drugs.142190.0.html)
+[Sophie Raabe](https://www.klinikum.uni-heidelberg.de/Systems-Medicine-of-Cancer-Drugs.142190.0.html)
 *PhD student, Department of Internal Medicine V, Hematology, Oncology and Rheumatology, University Hospital Heidelberg, Germany*
 
 ### Session 2 - Emerging imaging technologies and analyses to empower personalized medicine approaches
