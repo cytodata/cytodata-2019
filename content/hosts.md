@@ -1,8 +1,8 @@
 ---
-title: "Venue"
+title: "Conference location"
 date: '2018-06-12T15:55:45-04:00'
 anchor: hosts
-weight: 7
+weight: 8
 ---
 ![Boutros Lab](/./hosts_files/separate_banner_dkfz.png)
 
