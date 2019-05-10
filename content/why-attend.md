@@ -13,6 +13,9 @@ We recently formed the CytoData Society ([CytoDS](http://society.cytodata.org)) 
 
 Attendees will join together for a one-day symposium with seminars, lectures and social events followed by a two-day hackathon. We aspire to gather a diverse and engaged group of both image-based profiling experts, and members of related fields. Everyone involved will be an active contributor (even if remote), no passive absorption of others’ ideas allowed! We assume participants will be willing to share their analysis strategies, given that each laboratory’s “competitive advantage” in this field does not come from their data pre-processing pipeline but rather from computational techniques downstream of the steps covered in the event, and from biological discoveries derived from their unique data. 
 
+**Sun Oct 27 Educational session (optional)**
+Learn about the latest tools and methods in single cell and image based profiling.
+
 **Mon Oct 28 Full day Symposium**
 Hear from leading researchers in the field from academia and industry.
 
