@@ -5,8 +5,6 @@ anchor: "organizers"
 weight: 7
 ---
 
-##   CytoData Society
-
 The CytoData Society (CytoDS) is an international society that builds and maintains an active community around image-based profiling of biological phenotypes induced by genetic, chemical or other perturbations of biological systems. This field is still in its infancy, and its adoption has been slow, primarily due to the data analysis challenges posed, the large imaging experiments required, and the lack of ground-truth data sets where relationships among images are known. Our goal is therefore to bring image-based profiling into the mainstream by organizing the community working on this technology.
 
 ### CytoData Society Board
