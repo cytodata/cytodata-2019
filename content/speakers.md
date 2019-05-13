@@ -5,9 +5,6 @@ anchor: "speakers"
 weight: 2
 ---
 
-
-## Confirmed Speakers
-
 ### Keynote
 
 TBD
