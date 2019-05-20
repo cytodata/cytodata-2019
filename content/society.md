@@ -11,11 +11,11 @@ The CytoData Society (CytoDS) is an international society that builds and mainta
 
 Past president: [Anne Carpenter](https://twitter.com/DrAnneCarpenter) [Shantanu Singh](https://twitter.com/snhantau)
 President: [Florian Heigwer](https://twitter.com/FlorianHeigwer)
-Vice President: TBA (We are recruiting. <cytodata.info@gmail.com>)
+Vice President: [Lassi Paavolainen](https://twitter.com/Lastu21)
 Event officer: [Tim Becker](https://twitter.com/cells2numbers)
 Communications officer: [Alex Vasilevich](https://www.linkedin.com/in/aliakseivasilevich/)
 Industry liaison: [Alex Vasilevich](https://www.linkedin.com/in/aliakseivasilevich/)
 Operations officer: TBA
 Education/ outreach officer: [Juan Caicedo](https://twitter.com/jccaicedo)
 Society liaison: [Oren Kraus](https://twitter.com/orenkraus)
-Resource officer: [Lassi Paavolainen](https://twitter.com/Lastu21)
+Resource officer: TBA (We are recruiting. <cytodata.info@gmail.com>)
