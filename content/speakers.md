@@ -7,7 +7,10 @@ weight: 2
 
 ### Keynote
 
-TBD
+![Carsten Marr photo](https://www.helmholtz-muenchen.de/typo3temp/_processed_/2/3/csm_Marr_2017_ae058e7ad7.jpg)
+
+[Carsten Marr](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2485/Dr.-Marr/index.html)
+*Helmholtz Center Munich, Institute of Computational Biology*
 
 ### Session 1 - Deciphering Biology by Functional Genomics and Microscopy-based Profiling
 [Michael Boutros](https://www.dkfz.de/en/signaling/index.php)
