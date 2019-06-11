@@ -7,9 +7,13 @@ weight: 3
 
 ## Partners
 
-[Acquifer](https://www.acquifer.de/)
+[Recursion Pharmaceuticals](https://www.recursionpharma.com/)
+
+[Janssen](https://www.janssen.com/germany/partnerschaften?gclid=Cj0KCQjwov3nBRDFARIsANgsdoF8al96zDFXqhnky2eT5csOjdUY2K9B0pqahPID5s4k3mV3lXYqK0oaAjw6EALw_wcB&gclsrc=aw.ds)
 
 [Phenomic.ai](https://phenomic.ai/)
+
+[Acquifer](https://www.acquifer.de/)
 
 ## Opportunities
 
