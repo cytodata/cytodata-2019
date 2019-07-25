@@ -7,13 +7,16 @@ weight: 3
 
 ## Partners
 
-[Recursion Pharmaceuticals](https://www.recursionpharma.com/)
+[![Recursion Pharmaceuticals](/./main_files/logos/logo_recursion_small.png)](https://www.recursionpharma.com/)
 
-[Janssen](https://www.janssen.com/germany/partnerschaften?gclid=Cj0KCQjwov3nBRDFARIsANgsdoF8al96zDFXqhnky2eT5csOjdUY2K9B0pqahPID5s4k3mV3lXYqK0oaAjw6EALw_wcB&gclsrc=aw.ds)
+[![Janssen](/./main_files/logos/logo_jansen_small.png)](https://www.janssen.com/germany/partnerschaften?gclid=Cj0KCQjwov3nBRDFARIsANgsdoF8al96zDFXqhnky2eT5csOjdUY2K9B0pqahPID5s4k3mV3lXYqK0oaAjw6EALw_wcB&gclsrc=aw.ds)
 
-[Phenomic.ai](https://phenomic.ai/)
+[![Phenomic.ai](/./main_files/logos/logo_phenomic_small.png)](https://phenomic.ai/)
 
-[Acquifer](https://www.acquifer.de/)
+[![SFB WNT 1324](/./main_files/logos/logo_wnt-logo_grey_small.png)](http://sfb1324.de/)
+
+[![deNBI](/./main_files/logos/logo_denBI_small.png)](https://www.denbi.de/)
+
 
 ## Opportunities
 
