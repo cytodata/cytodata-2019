@@ -13,6 +13,8 @@ weight: 3
 
 [![Phenomic.ai](/./main_files/logos/logo_phenomic_small.png)](https://phenomic.ai/)
 
+[![Acquifer](/./main_files/logos/acquifer_logo.png)](https://www.acquifer.de/data-solutions/)
+
 [![SFB WNT 1324](/./main_files/logos/logo_wnt-logo_grey_small.png)](http://sfb1324.de/)
 
 [![deNBI](/./main_files/logos/logo_denBI_small.png)](https://www.denbi.de/)
