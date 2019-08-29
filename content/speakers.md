@@ -40,6 +40,3 @@ weight: 2
 
 [Oliver Stegle](https://www.embl.de/research/units/genome_biology/stegle/index.html) 
 *German Cancer Research Center (DKFZ), Heidelberg, Germany and European Bioinformatics Institute (EMBL-EBI), Hinxton, Cambridge, UK*
-  
-[Gitte Neubauer](http://biorn.org/about/)
-*Cellzome, a GSK company, Heidelberg, Germany*
