@@ -22,7 +22,7 @@ weight: 2
 [Rainer Pepperkok](https://www.embl.de/research/units/cbb/pepperkok/index.html)
 *European Molecular Biology Laboratory (EMBL), Heidelberg, Germany*
 
-[Sophie Raabe](https://www.klinikum.uni-heidelberg.de/Systems-Medicine-of-Cancer-Drugs.142190.0.html)
+[Sophie Rabe](https://www.klinikum.uni-heidelberg.de/zentrum-fuer-innere-medizin-medizin-klinik/innere-medizin-v-haematologie-onkologie-und-rheumatologie/forschung/research-group-dietrich/)
 *University Hospital Heidelberg, Germany*
 
 ### Session 2 - Emerging imaging technologies and analyses to empower personalized medicine approaches
