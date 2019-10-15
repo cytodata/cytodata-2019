@@ -19,6 +19,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 10
     url = "https://indico.dkfz.de/event/95/registrations/102/"
 
+[[menu.top]]
+    name = "Detailed time table"
+    weight = 10
+    url = "https://indico.dkfz.de/event/95/timetable/#20191027.detailed"
+
+
 # Site parameters
 [params]
 
